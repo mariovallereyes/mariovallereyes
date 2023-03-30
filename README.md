@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariovallereyes
 - 👀 I’m interested in learning code in my 40s
 - 🌱 I’m currently learning Python, JavaScript
-- 💞️ I’m looking to collaborate on AR/VR projects
+- 💞️ AR/VR projects & Financial Coding (Algo Trading, etc)
 - 📫 How to reach me: @bilbeny on Twitter
 
 <!---
