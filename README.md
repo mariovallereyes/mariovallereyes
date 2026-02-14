@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariovallereyes
 - 👀 I learned how to code in my late 40s, after several attempts in my 30s
 - 🌱 I’m currently learning Python, JavaScript, C#, React & Next.js
-- 💞️ Web (Next.js), AR/VR projects & Financial Coding (Algo Trading, etc)
+- 💞️ Web (Next.js), AR/VR, AI Agents & AI Financial Coding (Algo Trading)
 - 📫 How to reach me: @bilbeny on Twitter or hotlumpowell.com
 
 <!---
